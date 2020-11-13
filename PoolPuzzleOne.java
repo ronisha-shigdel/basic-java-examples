@@ -7,25 +7,18 @@ class PoolPuzzleOne{
 				System.out.println(" noise");
 			}
 				x=x+2;
-			
-			
 			if (x>1){
 				System.out.println("annoys");
 				x=x-1;
-				
-				
 			}
 			if (x==1){
 				System.out.print("an");
-				
 			}
 			if (x>0){
 				System.out.println(" oyster");
-				
 			}
 			System.out.println("");
-			x=x+1;
-			
+			x=x+1;	
 		}
 	}
 }
